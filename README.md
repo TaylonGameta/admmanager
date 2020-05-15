@@ -9,7 +9,7 @@ This feature give a full relatory of assets and liabilities wich are divided by 
 ![balance sheet](img.jpg)
 
 
-## Item Types
+### Item Types
 **Current assets**: assets owned by a short period of time. Ex: stock, cash flow <br/><br/>
 **Con-current assets**: assets owned by a short period of time. Ex: stock, cash flow <br/><br/>
 **Current assets**: assets owned by a short period of time. Ex: stock, cash flow <br/><br/>
