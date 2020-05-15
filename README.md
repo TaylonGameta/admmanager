@@ -1,9 +1,15 @@
-Application created to manage company finances  
+Application created to manage company finances.
 
 ### Features
 
 ### Balance Sheet
 
-This feature allow the count of assets and liabilities wich are divided by current and non-current 
+This feature give a full relatory of assets and liabilities wich are divided by current and non-current.
 
-![Test Image 6](img.jpg)
+![balance sheet](img.jpg)
+
+## Income Statement for the Year
+
+
+![income statement for the year](img2.jpg)
+
