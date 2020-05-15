@@ -6,4 +6,4 @@ function test() {
 }
 ```
 
-![Test Image 6](img)
+![Test Image 6](img.jpg)
