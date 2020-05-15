@@ -1,6 +1,6 @@
 Application created to manage company finances.
 
-### Features
+## Features
 
 ### Balance Sheet
 
@@ -8,7 +8,12 @@ This feature give a full relatory of assets and liabilities wich are divided by 
 
 ![balance sheet](img.jpg)
 
-## Income Statement for the Year
+**current assets**: assets owned by a short period of time. Ex: stock, cash flow 
+**non-current assets**: assets owned by a short period of time. Ex: stock, cash flow 
+**current assets**: assets owned by a short period of time. Ex: stock, cash flow 
+**non-current assets**: assets owned by a short period of time. Ex: stock, cash flow 
+
+### Income Statement for the Year
 
 
 ![income statement for the year](img2.jpg)
