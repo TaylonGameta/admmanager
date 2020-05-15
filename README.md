@@ -8,10 +8,10 @@ This feature give a full relatory of assets and liabilities wich are divided by 
 
 ![balance sheet](img.jpg)
 
-**current assets**: assets owned by a short period of time. Ex: stock, cash flow 
-**non-current assets**: assets owned by a short period of time. Ex: stock, cash flow 
-**current assets**: assets owned by a short period of time. Ex: stock, cash flow 
-**non-current assets**: assets owned by a short period of time. Ex: stock, cash flow 
+**current assets**: assets owned by a short period of time. Ex: stock, cash flow <br />
+**non-current assets**: assets owned by a short period of time. Ex: stock, cash flow <br />
+**current assets**: assets owned by a short period of time. Ex: stock, cash flow <br />
+**non-current assets**: assets owned by a short period of time. Ex: stock, cash flow <br />
 
 ### Income Statement for the Year
 
