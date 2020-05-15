@@ -1,0 +1,31 @@
+div.item-bp{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+p.title{
+    margin: 0;
+    margin-right: 10px;
+    color: #FB0B93;
+    font-size: 14px;
+}
+
+p.value{
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+}
+
+button{
+    margin-right: 10px;
+}
+
+button.delete{
+    background-color: white;
+    border: 2px solid #FB0B93;
+    color: #FB0B93;
+}

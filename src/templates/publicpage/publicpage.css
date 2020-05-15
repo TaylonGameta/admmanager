@@ -1,0 +1,109 @@
+body{
+    background-color: white;
+}
+
+.header{
+    padding: 2% 15%;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 5em;
+}
+
+
+
+
+.brand{
+    align-self: flex-end;
+    justify-self: flex-end;
+    margin-right: auto;
+    text-decoration: none;
+    font-size: 18px;
+    color: #363636;
+    font-weight: bold;
+}
+
+
+.brandSpan{
+    color: #FB0B93
+}
+.item{
+    margin-left: 15px;
+    text-decoration: none;
+    color: #363636;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.item:hover{
+    margin-left: 15px;
+    text-decoration: none;
+    color: gray;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.firstContainer{
+    padding: 2% 15%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10em;
+}
+
+.title h1{
+    color: #363636;
+    margin-bottom: 2em;
+}
+.title p{
+    color: #363636;
+    margin-bottom: 6em;
+    font-size: 18px;
+}
+
+.title{
+    margin-left: 10em;
+}
+
+.btn{
+    border: none;
+    width: 200px;
+    height: 50px;
+    margin-right: 10px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 12px;
+    outline: none;
+}
+
+.fill{
+    background-color: #FB0B93;
+    color: white;  
+}
+
+.fill:hover{ 
+    cursor: pointer;
+}
+
+.outline{
+    background-color: white;
+    color: #FB0B93; 
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FB0B93;   
+}
+
+
+.outline:hover{
+    transition: 500ms;
+    background-color: #FB0B93;
+    color: white; 
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FB0B93;  
+    cursor: pointer; 
+}
+
+.secundContainer{
+    background-color: #FB0B93;
+    padding-bottom: 600px;
+}
+
